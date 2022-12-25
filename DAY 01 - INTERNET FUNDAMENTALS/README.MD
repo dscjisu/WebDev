@@ -34,3 +34,7 @@ By the end of the course, students will have a solid foundation in internet fund
   - CODEDAMN 
     - [Networking Concepts You HAVE to Know! Networking Basics](https://www.youtube.com/watch?v=AQLB3pbSErw)
     - [How websites and HTTP work? Web Basics Crash Course](https://www.youtube.com/watch?v=iD2fgC74ZtA)
+    
+    
+    
+<img src="./notes.png" />
