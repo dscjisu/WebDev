@@ -3,6 +3,8 @@
 The topics which I have learned over this session are the following.
 
 * Domain
+
+
 Domain name is a general name given to a website to store the location of the website and it points to the IP address of the website.
 
 * DNS
