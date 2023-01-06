@@ -4,7 +4,7 @@
 
 ## Assignment 
 
-> Write some html code to display the same format as below :)
+> Write some html code to display the same format as below :) Using <sup>, <sub> and <b> tags. 💪
 
  <b>2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O</b>
     <br>
