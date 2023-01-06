@@ -2,11 +2,19 @@
 <h2>Problem Statement :</h2> 
 Bookmarking in HTML. Bookmarking refers to creating links to different parts of the same page. Bookmarks can be useful if a web page is too long to navigate content manually. To create a bookmark - first create the bookmark, then add a link to it. When the link is clicked, the page will scroll down or up to the location with the bookmark.
 <br>
+<h2>Designs :</h2>
+
+<br>![Screenshot (148)](https://user-images.githubusercontent.com/92203629/211062395-e9be96be-caff-4fee-b376-e07b40b2f33b.png)
+<br>![Screenshot (149)](https://user-images.githubusercontent.com/92203629/211062594-a0b0b275-8417-4168-9110-1f6cbf080e86.png)
+<br>![Screenshot (150)](https://user-images.githubusercontent.com/92203629/211062828-e5335ce1-96f5-4dac-ad9c-792bc1b5ec49.png)
+
+<h2>Working Screen :</h2>
 <br>
-As you can see here, if the user wants to directly go to paragraph 5 or 4 all he needs to do is click on the links from the contents list.
-<br>
-<br>
-<h2>Style Guide :</h2> 
+
+https://user-images.githubusercontent.com/92203629/211064009-feeac539-d5b1-4cd6-bae5-2bd862abc907.mp4
+
+
+<h2>Style Guide :</h2><br>
 <ul>
    <li>Create a Heading as 'Contents' with <b>h2</b> tag -<br><b>font-family :</b> Arial, Helvetica, sans-serif <br><b>padding-left:</b> 10px</li><br>
    <li>Create a ordered list with <b>ol</b> tag -<br><b>Font-Family :</b> Arial, Helvetica, sans-serif
