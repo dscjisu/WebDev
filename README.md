@@ -1,6 +1,7 @@
 # WebDev
 The Web Dev Bootcamp 2023
 
+![](https://wiidgets.vercel.app/api/github/repocard?owner=dscjisu&repo=WebDev&theme=github_dark)
 
 
 
